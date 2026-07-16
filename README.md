@@ -4,6 +4,9 @@ A static **Amazon-inspired e-commerce landing page** built with pure **HTML** an
 
 ## 📸 Preview
 
+<img width="1920" height="883" alt="image" src="https://github.com/user-attachments/assets/041684f2-5e8e-4127-aa4d-bf1c50f4b5fe" />
+
+
 The landing page includes:
 - A top navbar with logo, delivery location, search bar, sign-in/account section, returns & orders, and cart icon
 - A secondary panel with "All" menu, quick links (Today's Deals, Registry, Prime Video, Gift Cards, Customer Service, Sell), and an electronics promo
