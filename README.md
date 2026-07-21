@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Clone (Amazon UI Clone)
+# 🛒 Amazon-Clone
 
 A static **Amazon-inspired e-commerce landing page** built with pure **HTML** and **CSS**. This project recreates Amazon's homepage layout — including the navigation bar, search section, category panel, hero banner, product/category boxes, and footer.
 
@@ -23,7 +23,7 @@ The landing page includes:
 ## 📁 Project Structure
 
 ```
-e-commerce-clone/
+Amazon-Clone/
 ├── index.html          # Main HTML file
 ├── style.css            # Stylesheet for the page
 ├── amazon_logo.png      # Site logo
@@ -37,11 +37,11 @@ To run this project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/wasifqadeer12/e-commerce-clone.git
+   git clone https://github.com/wasifqadeer12/Amazon-Clone.git
    ```
 2. **Navigate into the project folder**
    ```bash
-   cd e-commerce-clone
+   cd Amazon-Clone
    ```
 3. **Open `index.html`** in your browser
    - Simply double-click the file, or
@@ -68,8 +68,5 @@ No build tools, dependencies, or installations required — it's a static front-
 ## 👤 Author
 
 **Wasif Qadeer**
-GitHub: [@wasifqadeer12](https://github.com/wasifqadeer12)
+GitHub: [@wasifqadeer1](https://github.com/wasifqadeer1)
 
-## 📄 License
-
-This project is for educational/practice purposes. Feel free to fork and customize it.
